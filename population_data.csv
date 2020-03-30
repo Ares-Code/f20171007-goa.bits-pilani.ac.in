@@ -1,0 +1,293 @@
+Name,Population,Type
+Alabama,4888000.0,Province/State
+Alaska,737438.0,Province/State
+Alberta,4371000.0,Province/State
+Anhui,62000000.0,Province/State
+Arizona,7172000.0,Province/State
+Arkansas,301400.0,Province/State
+Aruba,105264.0,Province/State
+Australian Capital Territory,418440.0,Province/State
+Beijing,21540000.0,Province/State
+British Columbia,5071000.0,Province/State
+California,39560000.0,Province/State
+Cayman Islands,61559.0,Province/State
+Channel Islands,173414.0,Province/State
+Chongqing,30480000.0,Province/State
+Colorado,5696000.0,Province/State
+Connecticut,3573000.0,Province/State
+Curacao,161014.0,Province/State
+Delaware,967171.0,Province/State
+Denmark,5603000.0,Province/State
+Diamond Princess,3770.0,Province/State
+District of Columbia,633427.0,Province/State
+Faroe Islands,49290.0,Province/State
+Florida,21300000.0,Province/State
+France,66990000.0,Province/State
+French Guiana,290691.0,Province/State
+French Polynesia,283007.0,Province/State
+From Diamond Princess,2670.0,Province/State
+Fujian,38560000.0,Province/State
+Gansu,25580000.0,Province/State
+Georgia,10520000.0,Province/State
+Gibraltar,34571.0,Province/State
+Grand Princess,4200.0,Province/State
+Guadeloupe,395700.0,Province/State
+Guam,164229.0,Province/State
+Guangdong,113460000.0,Province/State
+Guangxi,48380000.0,Province/State
+Guizhou,34750000.0,Province/State
+Hainan,9258000.0,Province/State
+Hawaii,1420000.0,Province/State
+Hebei,74700000.0,Province/State
+Heilongjiang,38310000.0,Province/State
+Henan,94000000.0,Province/State
+Hong Kong,7392000.0,Province/State
+Hubei,58500000.0,Province/State
+Hunan,67370000.0,Province/State
+Idaho,1754000.0,Province/State
+Illinois,12740000.0,Province/State
+Indiana,6692000.0,Province/State
+Inner Mongolia,24710000.0,Province/State
+Iowa,3156000.0,Province/State
+Jiangsu,80400000.0,Province/State
+Jiangxi,45200000.0,Province/State
+Jilin,27460000.0,Province/State
+Kansas,2912000.0,Province/State
+Kentucky,4468000.0,Province/State
+Liaoning,43900000.0,Province/State
+Louisiana,4660000.0,Province/State
+Macau,622567.0,Province/State
+Maine,1338000.0,Province/State
+Manitoba,1369000.0,Province/State
+Maryland,6043000.0,Province/State
+Massachusetts,6902000.0,Province/State
+Mayotte,270372.0,Province/State
+Michigan,9996000.0,Province/State
+Minnesota,5611000.0,Province/State
+Mississippi,2987000.0,Province/State
+Missouri,6126000.0,Province/State
+Montana,1062000.0,Province/State
+Montserrat,5900.0,Province/State
+Nebraska,1929000.0,Province/State
+Netherlands,17180000.0,Province/State
+Nevada,3034000.0,Province/State
+New Brunswick,776827.0,Province/State
+New Hampshire,1356000.0,Province/State
+New Jersey,8909000.0,Province/State
+New Mexico,2095000.0,Province/State
+New South Wales,7544000.0,Province/State
+New York,8623000.0,Province/State
+Newfoundland and Labrador,521542.0,Province/State
+Ningxia,6301000.0,Province/State
+North Carolina,10380000.0,Province/State
+North Dakota,760077.0,Province/State
+Northern Territory,244300.0,Province/State
+Nova Scotia,971395.0,Province/State
+Ohio,11690000.0,Province/State
+Oklahoma,3943000.0,Province/State
+Ontario,14570000.0,Province/State
+Oregon,4191000.0,Province/State
+Pennsylvania,12810000.0,Province/State
+Prince Edward Island,156947.0,Province/State
+Puerto Rico,3195000.0,Province/State
+Qinghai,5627000.0,Province/State
+Quebec,8485000.0,Province/State
+Queensland,5071000.0,Province/State
+Reunion,859959.0,Province/State
+Rhode Island,1057000.0,Province/State
+Saint Barthelemy,9131.0,Province/State
+Saskatchewan,1174000.0,Province/State
+Shaanxi,37330000.0,Province/State
+Shandong,90000000.0,Province/State
+Shanghai,24240000.0,Province/State
+Shanxi,36500000.0,Province/State
+Sichuan,81100000.0,Province/State
+South Australia,1677000.0,Province/State
+South Carolina,5084000.0,Province/State
+South Dakota,882235.0,Province/State
+St Martin,32125.0,Province/State
+Tasmania,515000.0,Province/State
+Tennessee,6770000.0,Province/State
+Texas,28700000.0,Province/State
+Tianjin,15000000.0,Province/State
+Tibet,3180000.0,Province/State
+United Kingdom,66440000.0,Province/State
+United States Virgin Islands,107268.0,Province/State
+US,,Province/State
+Utah,3161000.0,Province/State
+Vermont,626299.0,Province/State
+Victoria,6359000.0,Province/State
+Virgin Islands,107268.0,Province/State
+Virginia,8518000.0,Province/State
+Washington,7536000.0,Province/State
+West Virginia,1806000.0,Province/State
+Western Australia,2589000.0,Province/State
+Wisconsin,5814000.0,Province/State
+Wyoming,577737.0,Province/State
+Xinjiang,21810000.0,Province/State
+Yunnan,45970000.0,Province/State
+Zhejiang,57370000.0,Province/State
+Afghanistan,38928346.0,Country/Region
+Albania,2877797.0,Country/Region
+Algeria,43851044.0,Country/Region
+Andorra,77265.0,Country/Region
+Antigua and Barbuda,97929.0,Country/Region
+Argentina,45195774.0,Country/Region
+Armenia,2963243.0,Country/Region
+Aruba,106766.0,Country/Region
+Australia,25499884.0,Country/Region
+Austria,9006398.0,Country/Region
+Azerbaijan,10139177.0,Country/Region
+Bahrain,1701575.0,Country/Region
+Bangladesh,164689383.0,Country/Region
+Barbados,287375.0,Country/Region
+Belarus,9449323.0,Country/Region
+Belgium,11589623.0,Country/Region
+Benin,12123200.0,Country/Region
+Bhutan,771608.0,Country/Region
+Bolivia,11673021.0,Country/Region
+Bosnia and Herzegovina,3280819.0,Country/Region
+Brazil,212559417.0,Country/Region
+Brunei,437479.0,Country/Region
+Bulgaria,6948445.0,Country/Region
+Burkina Faso,20903273.0,Country/Region
+Cambodia,16718965.0,Country/Region
+Cameroon,26545863.0,Country/Region
+Canada,37742154.0,Country/Region
+Central African Republic,37742154.0,Country/Region
+Chile,19116201.0,Country/Region
+ChinaHong Kong,7496981.0,Country/Region
+China,1439323776.0,Country/Region
+Colombia,50882891.0,Country/Region
+Congo (Brazzaville),5518087.0,Country/Region
+Congo (Kinshasa),89561403.0,Country/Region
+Costa Rica,5094118.0,Country/Region
+Cote d'Ivoire,26378274.0,Country/Region
+Croatia,4105267.0,Country/Region
+Cruise Ship,3500.0,Country/Region
+Cuba,11326616.0,Country/Region
+Cyprus,1207359.0,Country/Region
+Czechia,10708981.0,Country/Region
+Denmark,5792202.0,Country/Region
+Djibouti,988000.0,Country/Region
+Dominican Republic,10847910.0,Country/Region
+Ecuador,17643054.0,Country/Region
+Egypt,102334404.0,Country/Region
+Equatorial Guinea,1402985.0,Country/Region
+Estonia,1326535.0,Country/Region
+Eswatini,1160164.0,Country/Region
+Ethiopia,114963588.0,Country/Region
+Finland,5540720.0,Country/Region
+France,65273511.0,Country/Region
+French Guiana,298682.0,Country/Region
+Gabon,2225734.0,Country/Region
+"Gambia, The",2416668.0,Country/Region
+Georgia,3989167.0,Country/Region
+Germany,83783942.0,Country/Region
+Ghana,31072940.0,Country/Region
+Greece,10423054.0,Country/Region
+Greenland,56770.0,Country/Region
+Guadeloupe,400124.0,Country/Region
+Guam,168775.0,Country/Region
+Guatemala,17915568.0,Country/Region
+Guernsey,70000.0,Country/Region
+Guinea,13132795.0,Country/Region
+Guyana,786552.0,Country/Region
+Holy See,801.0,Country/Region
+Honduras,9904607.0,Country/Region
+Hungary,9660351.0,Country/Region
+Iceland,341243.0,Country/Region
+India,1380004385.0,Country/Region
+Indonesia,273523615.0,Country/Region
+Iran,83992949.0,Country/Region
+Iraq,40222493.0,Country/Region
+Ireland,4937786.0,Country/Region
+Israel,8655535.0,Country/Region
+Italy,60461826.0,Country/Region
+Jamaica,2961167.0,Country/Region
+Japan,126476461.0,Country/Region
+Jersey,106800.0,Country/Region
+Jordan,10203134.0,Country/Region
+Kazakhstan,18776707.0,Country/Region
+Kenya,53771296.0,Country/Region
+"Korea, South",51269185.0,Country/Region
+Kosovo,1810463.0,Country/Region
+Kuwait,4270571.0,Country/Region
+Kyrgyzstan,6524195.0,Country/Region
+Latvia,1886198.0,Country/Region
+Lebanon,6825445.0,Country/Region
+Liberia,5057681.0,Country/Region
+Liechtenstein,38128.0,Country/Region
+Lithuania,2722289.0,Country/Region
+Luxembourg,625978.0,Country/Region
+Malaysia,32365999.0,Country/Region
+Maldives,540544.0,Country/Region
+Malta,441543.0,Country/Region
+Martinique,375265.0,Country/Region
+Mauritania,4649658.0,Country/Region
+Mauritius,1271768.0,Country/Region
+Mayotte,272815.0,Country/Region
+Mexico,128932753.0,Country/Region
+Moldova,4033963.0,Country/Region
+Monaco,39242.0,Country/Region
+Mongolia,3278290.0,Country/Region
+Montenegro,628066.0,Country/Region
+Morocco,36910560.0,Country/Region
+Namibia,2540905.0,Country/Region
+Nepal,29136808.0,Country/Region
+Netherlands,17134872.0,Country/Region
+New Zealand,4822233.0,Country/Region
+Nigeria,206139589.0,Country/Region
+North Macedonia,2083374.0,Country/Region
+Norway,5421241.0,Country/Region
+Oman,5106626.0,Country/Region
+Pakistan,220892340.0,Country/Region
+Panama,4314767.0,Country/Region
+Paraguay,7132538.0,Country/Region
+Peru,32971854.0,Country/Region
+Philippines,109581078.0,Country/Region
+Poland,37846611.0,Country/Region
+Portugal,10196709.0,Country/Region
+Puerto Rico,2860853.0,Country/Region
+Qatar,2881053.0,Country/Region
+Republic of the Congo,5518087.0,Country/Region
+Reunion,895312.0,Country/Region
+Romania,19237691.0,Country/Region
+Russia,145934462.0,Country/Region
+Rwanda,12952218.0,Country/Region
+Saint Lucia,183627.0,Country/Region
+Saint Vincent and the Grenadines,115000.0,Country/Region
+San Marino,33931.0,Country/Region
+Saudi Arabia,34813871.0,Country/Region
+Senegal,16743927.0,Country/Region
+Serbia,8737371.0,Country/Region
+Seychelles,98347.0,Country/Region
+Singapore,5850342.0,Country/Region
+Slovakia,5459642.0,Country/Region
+Slovenia,2078938.0,Country/Region
+Somalia,15893222.0,Country/Region
+South Africa,59308690.0,Country/Region
+Spain,46754778.0,Country/Region
+Sri Lanka,21413249.0,Country/Region
+Sudan,43849260.0,Country/Region
+Suriname,586632.0,Country/Region
+Sweden,10099265.0,Country/Region
+Switzerland,8654622.0,Country/Region
+Taiwan*,23816775.0,Country/Region
+Tanzania,59734218.0,Country/Region
+Thailand,69799978.0,Country/Region
+The Bahamas,393244.0,Country/Region
+The Gambia,2416668.0,Country/Region
+Togo,8278724.0,Country/Region
+Trinidad and Tobago,1399488.0,Country/Region
+Tunisia,11818619.0,Country/Region
+Turkey,84339067.0,Country/Region
+US,331002651.0,Country/Region
+Ukraine,43733762.0,Country/Region
+United Arab Emirates,9890402.0,Country/Region
+United Kingdom,67886011.0,Country/Region
+Uruguay,3473730.0,Country/Region
+Uzbekistan,33469203.0,Country/Region
+Venezuela,28435940.0,Country/Region
+Vietnam,97338579.0,Country/Region
+Zambia,18383955.0,Country/Region
